@@ -1,0 +1,5 @@
+Ana; 33
+Jo; 44
+Yuri; 55
+Carlos; 54
+Mick; 80
